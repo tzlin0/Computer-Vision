@@ -1,2 +1,2 @@
-# UW-CSE-455
+# CSE-455
 computer vision
