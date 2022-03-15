@@ -18,17 +18,17 @@ Jack Chuang, Warren Shen, Thomas Lin, John Cheng / University of Washington, Mar
 
 This project contains the training implementation with CIFAR-10 based on EfficientNet and Cutout. An integrational model is built with the idea of reinforced scaling and baseline. The best training result of the model is 87% accuracy.
 
-Accuracy to parameters used of Baseline using fully connected layers:
+Accuracy to parameters used of Baseline using fully connected layers:  
 Best result: 50% Accuracy
 
 ![focal length](https://github.com/Jack-Chuang/UW-CSE-455/blob/main/final%20project/images/15746989836619.jpg)
  
-Accuracy to parameters used of Baseline using convolutional layers
+Accuracy to parameters used of Baseline using convolutional layers  
 Best result: 75% accuracy
 
 ![focal length](https://github.com/Jack-Chuang/UW-CSE-455/blob/main/final%20project/images/15746990077079.jpg)
  
-Accuracy and scale of the MnasNet, VGG19 and ResNet34 baseline model
+Accuracy and scale of the MnasNet, VGG19 and ResNet34 baseline model  
 Best result: 87% accuracy
 
 ![focal length](https://github.com/Jack-Chuang/UW-CSE-455/blob/main/final%20project/images/15746990590839.jpg)
