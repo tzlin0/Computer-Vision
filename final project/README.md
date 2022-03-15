@@ -4,8 +4,7 @@ This repository contains the code and paper of the CSE455 Final project.
 
 ## group members
 
-Jack Chuang, Warren Shen, Thomas Lin, John Cheng
-University of Washington, March 2020
+Jack Chuang, Warren Shen, Thomas Lin, John Cheng / University of Washington, March 2020
 
 ## Final Presentation Video
 
